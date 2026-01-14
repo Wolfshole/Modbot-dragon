@@ -1,0 +1,19 @@
+{
+  "1316837584592441447": {
+    "enabled": {
+      "spam": true,
+      "caps": false,
+      "badwords": false,
+      "links": false,
+      "mentions": false,
+      "duplicate": false
+    },
+    "settings": {
+      "spamLimit": 10,
+      "capsPercent": 50,
+      "mentionLimit": 10,
+      "warnLimit": 3
+    },
+    "warnings": {}
+  }
+}
