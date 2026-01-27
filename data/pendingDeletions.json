@@ -1,0 +1,26 @@
+[
+  [
+    "1464933504256053258",
+    {
+      "messageId": "1464933540016947387",
+      "channelInfo": {
+        "name": "test-1",
+        "id": "1464933504256053258",
+        "type": 0,
+        "guildId": "1316837584592441447",
+        "guildName": "Bot Tests für Anfänger",
+        "position": 6,
+        "topic": null,
+        "nsfw": false,
+        "rateLimitPerUser": 0,
+        "parentId": "1316837584592441452",
+        "permissionOverwrites": []
+      },
+      "executor": {
+        "id": "1018236519204532345",
+        "tag": "ueblackwulf"
+      },
+      "timestamp": 1769337741571
+    }
+  ]
+]

@@ -1,0 +1,14 @@
+{
+  "1316837584592441447": {
+    "enabled": true,
+    "thresholds": {
+      "channels": 3,
+      "roles": 3,
+      "bans": 3,
+      "kicks": 3
+    },
+    "timeWindowSec": 300,
+    "punishment": "timeout",
+    "logChannelId": "1316837584592441453"
+  }
+}

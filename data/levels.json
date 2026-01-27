@@ -1,0 +1,19 @@
+{
+  "1316837584592441447": {
+    "enabled": true,
+    "settings": {
+      "xpPerMessage": 15,
+      "xpCooldown": 60,
+      "levelUpMessage": "🎉 {user}, du bist jetzt Level **{level}**!",
+      "sendLevelUpInChannel": true
+    },
+    "levelRoles": {},
+    "users": {
+      "1018236519204532345": {
+        "xp": 15,
+        "level": 0,
+        "lastXP": 1769334659345
+      }
+    }
+  }
+}

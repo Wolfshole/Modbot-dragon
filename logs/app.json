@@ -1,0 +1,802 @@
+[
+  {
+    "timestamp": "2026-01-24T16:07:13.985Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:14.003Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:15.339Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:15.366Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:16.551Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:16.580Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:17.759Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:17.784Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:18.971Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:19.000Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:20.174Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:20.204Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:21.395Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:21.421Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:22.718Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:22.746Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:23.948Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:23.983Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:25.243Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:25.274Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:26.643Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:26.674Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:27.997Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:28.023Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:29.824Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:29.853Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:31.074Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:31.111Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:32.312Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:32.344Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:33.568Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:33.598Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:34.834Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:34.866Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:36.100Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:36.129Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:37.509Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:37.541Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:07:38.803Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:07:38.840Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:13:10.205Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:13:10.232Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:13:11.211Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:13:11.271Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:28:13.571Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:28:13.594Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:28:15.322Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:28:15.385Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:28:25.082Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:28:25.112Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:28:26.230Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:28:26.260Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:33:39.370Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:33:39.401Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:33:44.058Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:33:44.087Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:37:07.333Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:37:07.355Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:37:08.671Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:37:08.769Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:38:01.403Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:38:01.428Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:38:02.610Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:38:02.639Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:52:20.540Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:52:20.563Z",
+    "level": "DEBUG",
+    "message": "Lade 14 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:52:22.109Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:52:22.143Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:53:20.597Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:53:20.627Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:53:21.800Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:53:21.832Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:55:20.980Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:55:21.009Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:55:22.166Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:55:22.200Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:55:35.740Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:55:35.768Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:55:36.822Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:55:36.855Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:57:06.159Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:57:06.184Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:57:09.341Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:57:09.376Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-24T16:57:32.526Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-24T16:57:32.550Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-24T16:57:33.730Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-24T16:57:33.789Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:16:56.278Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:16:56.297Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:16:57.617Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:16:57.643Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:31:59.097Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:31:59.119Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:32:00.310Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:32:00.351Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:34:11.792Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:34:11.822Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:34:12.999Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:34:13.029Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:42:38.949Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:42:38.969Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:42:40.079Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:42:40.109Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:43:09.353Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:43:09.375Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:43:10.462Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:43:10.489Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:44:06.646Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:44:06.664Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:44:09.127Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:44:09.148Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:44:09.180Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:44:09.205Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:44:10.494Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:44:10.517Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:44:11.902Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:44:11.926Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:45:04.140Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:45:04.165Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:45:05.337Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:45:05.372Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:45:05.429Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:45:05.451Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:45:30.729Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:45:30.752Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:45:32.663Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:45:32.698Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:49:45.868Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:49:45.888Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:49:47.082Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:49:47.112Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T09:51:00.863Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T09:51:00.883Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T09:51:02.005Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T09:51:02.036Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T10:06:03.474Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T10:06:03.504Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T10:06:04.547Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T10:06:04.572Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T10:41:37.643Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T10:41:37.660Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T10:41:38.754Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T10:41:38.779Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T10:42:23.896Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T10:42:23.914Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T10:42:25.383Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T10:42:25.416Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T10:46:08.850Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T10:46:08.872Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T10:46:11.212Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T10:46:11.242Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T10:53:04.281Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T10:53:04.301Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T10:53:05.515Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T10:53:05.541Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  },
+  {
+    "timestamp": "2026-01-25T11:08:06.717Z",
+    "level": "INFO",
+    "message": "Bot wird gestartet..."
+  },
+  {
+    "timestamp": "2026-01-25T11:08:06.746Z",
+    "level": "DEBUG",
+    "message": "Lade 13 Commands aus E:\\großer_mod_bot_dc\\commands"
+  },
+  {
+    "timestamp": "2026-01-25T11:08:07.769Z",
+    "level": "INFO",
+    "message": "Bot eingeloggt als ModBot Dragon#3290"
+  },
+  {
+    "timestamp": "2026-01-25T11:08:07.796Z",
+    "level": "INFO",
+    "message": "Startnachricht in Log-Channel gesendet."
+  }
+]
