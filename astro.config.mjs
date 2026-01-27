@@ -1,9 +1,11 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-import vercel from '@astrojs/vercel/serverless';
+import vercel from '@astrojs/vercel';
+
 
 export default defineConfig({
 	// @ts-ignore
-	adapter: vercel(),
+  output: 'server',
+  adapter: vercel(),
 });
