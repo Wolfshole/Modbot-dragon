@@ -9,7 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "^9.0.4",
+    "@astrojs/netlify": "^6.6.4",
     "astro": "^5.17.1",
     "tailwindcss": "^3.4.19",
     "vercel": "^50.9.6",
